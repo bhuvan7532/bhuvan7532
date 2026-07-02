@@ -1,102 +1,98 @@
 <div align="center">
 
-# Hi there, I'm Bhuvanesh Kanna G 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Bhuvanesh%20Kanna%20G&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20MERN%20Explorer&descAlignY=60"/>
 
-### 🚀 Full-Stack Developer | AI Enthusiast | MERN Stack Explorer
+# 👋 Hey, I'm Bhuvanesh Kanna G
 
-*Building scalable web applications, integrating AI into real-world products, and continuously learning modern technologies.*
+### 🚀 Building scalable web applications • 🤖 Exploring AI • 💡 Solving real-world problems
 
 <p>
   <a href="https://github.com/bhuvan7532">
-    <img src="https://komarev.com/ghpvc/?username=bhuvan7532&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=bhuvan7532&style=for-the-badge&color=0e75b6"/>
   </a>
+  <a href="https://github.com/bhuvan7532?tab=followers">
+    <img src="https://img.shields.io/github/followers/bhuvan7532?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-success?style=for-the-badge"/>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+Stack+Developer;AI-Powered+Application+Builder;Always+Learning+Something+New+🚀"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
 - 🎓 Final-year **Information Technology** undergraduate at **Mepco Schlenk Engineering College**
 - 💼 **Full Stack Development Intern** at **Infosys Springboard**
-- 🤖 Passionate about **MERN Stack Development**, **Backend Engineering**, and **AI-powered Applications**
-- 🏆 **3rd Prize Winner** — **YuvAI Stack 24-Hour Hackathon**, Regional AI Stack Summit (2026)
-- 🌱 Currently exploring **System Design**, **AI Integrations**, and building scalable full-stack applications
+- 🏆 **3rd Prize** — YuvAI Stack 24-Hour Hackathon (Regional AI Stack Summit 2026)
+- 🤖 Passionate about **MERN Stack**, **Backend Engineering**, and **AI-powered products**
+- 🌱 Currently exploring **System Design**, **Cloud Deployment**, **FastAPI**, and **Generative AI**
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Arsenal
 
-## 💻 Languages
+## Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,java,c,cpp"/>
+</p>
 
----
+## Frontend
 
-## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,maven"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-## ⚙️ Backend
+## Database
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
 
----
+## Tools
 
-## 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman"/>
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## Other
 
----
-
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌐 Other Technologies
+# 🚀 Featured Projects
 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🎨 **Faaya** | AI-powered background removal platform using Gemini Vision for intelligent image metadata. | React (Vite) • FastAPI • Python • rembg • Pillow • Gemini API |
+| 🗺 **RouteIQ** | Intelligent route planner integrating routing, weather, and geospatial APIs. | React • Node.js • Express • MongoDB |
+| 🧬 **DNA Profiling System** | Genetic sequence prioritization and matching using Binary Heap. | C++ • Data Structures |
 
----
-
-# ⭐ Featured Projects
-
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| **🎨 Faaya** | AI-powered background removal web application with intelligent image metadata generation using Gemini Vision API. | `React (Vite)` `FastAPI` `Python` `rembg` `Pillow` `Gemini API` `Vercel` `Render` | 🔗 *Add Repository Link* |
-| **🗺️ RouteIQ** | Full-stack intelligent route planning platform integrating routing, geospatial, and weather APIs for optimized travel. | `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` | 🔗 *Add Repository Link* |
-| **🧬 DNA Profiling System** | Genetic sequence storage and matching system using Binary Heap for efficient prioritization and searching. | `C++` `Binary Heap` `DSA` | 🔗 *Add Repository Link* |
+> 📌 Add your GitHub repository links after uploading each project.
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhuvan7532&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhuvan7532&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan7532&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan7532&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan7532&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -104,29 +100,42 @@
 
 ---
 
-# 🌟 Current Focus
+# 🏆 Achievements
 
-- 🚀 Building scalable **MERN Stack** applications
-- 🤖 Integrating **Generative AI** into web products
-- 📚 Learning **System Design** and backend architecture
-- ⚡ Writing clean, maintainable, production-ready code
+<img src="https://github-profile-trophy.vercel.app/?username=bhuvan7532&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 ---
 
-# 🤝 Connect with Me
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan7532&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🎯 Currently Working On
+
+- ⚙️ MERN Stack Projects
+- 🤖 AI-integrated Web Applications
+- 📡 REST API Development
+- ☁️ Deployment with Vercel & Render
+- 📚 Data Structures & System Design
+
+---
+
+# 🌍 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/bhuvanesh-kanna-92383b322">
-<img src="https://img.shields.io/badge/LinkedIn-Bhuvanesh%20Kanna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:bhuvankanna7@gmail.com">
-<img src="https://img.shields.io/badge/Email-bhuvankanna7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/bhuvan7532">
-<img src="https://img.shields.io/badge/GitHub-bhuvan7532-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -135,8 +144,8 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ "Code. Learn. Build. Repeat."
 
-*"Turning ideas into impactful software through Full-Stack Development and AI."*
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,100:06B6D4"/>
 
 </div>
