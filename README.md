@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:06B6D4,100:14B8A6&height=250&section=header&text=Bhuvanesh%20Kanna%20G&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20MERN%20Stack%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;AI-Powered+Application+Builder;Backend+Developer;Always+Learning+New+Technologies+🚀"/>
+
 
 <p>
 <a href="mailto:bhuvankanna7@gmail.com">
@@ -94,39 +94,7 @@
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhuvan7532&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan7532&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan7532&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhuvan7532&theme=tokyonight&no-frame=true&column=6&margin-w=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan7532&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 🎯 Currently Working On
 
